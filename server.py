@@ -17,10 +17,7 @@ while True:
 
     try:
         message = connectionSocket.recv(1024)
-        print(message)
-        print(message.split())
         filename = message.split()[1]
-        print(filename)
         f = open(filename[1:])
         outputdata = f.read()
 
