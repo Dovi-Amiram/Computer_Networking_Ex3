@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/tikshoret.iml" filepath="$PROJECT_DIR$/.idea/tikshoret.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Computer_Networking_Ex3.iml" filepath="$PROJECT_DIR$/.idea/Computer_Networking_Ex3.iml" />
+>>>>>>> 9b11d79bd8ce6e8e59f3d8e5bc12696e18d4b6d5
     </modules>
   </component>
 </project>
